@@ -13,3 +13,4 @@ Zenva - Codemurai app - swift
 			- type Bool   (true or false)
 			var lives: Int = 9
 - tuples	- group multiple values into a single variable - any order, any type
+			- let number = (17, "seventeen")
